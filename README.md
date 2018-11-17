@@ -1,4 +1,11 @@
 # Rice Grain Analyzer
+Thi repository 
+* Separate each rice
+* Area of each rice
+* Length of each rice
+* Width of each rice
+* Count rice grains
+
 
 ## Built With
 
