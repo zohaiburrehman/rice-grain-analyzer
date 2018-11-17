@@ -7,9 +7,9 @@
 * C++
 
 
-## Authors
+## Author
 
-* **Zohaib ur rehman ** 
+* Zohaib ur rehman 
 
 
 ## License
