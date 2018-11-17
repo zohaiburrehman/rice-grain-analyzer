@@ -1,5 +1,4 @@
-# rice-grain-analyzer
-
+# Rice Grain Analyzer
 
 ## Built With
 
